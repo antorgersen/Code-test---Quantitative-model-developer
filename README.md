@@ -38,12 +38,12 @@ cd Code-test---Quantitative-model-developer/
 2. Install dependencies([geopy](https://pypi.org/project/geopy/) and [pandas](https://pypi.org/project/pandas/)):
 
 ```bash
-pip install geopy
+pip3 install geopy
 ```
 ```bash
-pip install pandas
+pip3 install pandas
 ```
 3. Program is ready to be run:
 ```bash
-python main.py
+python3 main.py
 ```
