@@ -3,7 +3,7 @@ import geopy.distance as dis
 
 df = pd.read_csv("places.csv", sep=";")
 
-n = input("Write the number of places you want to use: ")
+n = input("Write the number of places you want to use (between 2 and 10): ")
 
 if n:
     n = int(n)
